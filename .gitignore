@@ -38,3 +38,6 @@ htmlcov/
 # Logs
 *.log
 logs/
+
+# Archivos subidos por los usuarios (comprobantes de pago)
+uploads/
